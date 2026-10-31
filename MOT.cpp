@@ -17,4 +17,10 @@ int main ( )
   cout <<"The Sum is ="<<sum<< endl;
   cout<<"My country is a very small country"
   return 0;
+
+int a = 3, b = 4;
+int sum = a+b;
+cout << "sum = " << sum;
+return 0;
 }
+
