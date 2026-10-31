@@ -15,5 +15,6 @@ int main ( )
   sum= A+B;
 
   cout <<"The Sum is ="<<sum<< endl;
+  cout<<"My country is a very small country"
   return 0;
 }
