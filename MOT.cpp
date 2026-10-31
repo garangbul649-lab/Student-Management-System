@@ -16,6 +16,7 @@ int main ( )
 
   cout <<"The Sum is ="<<sum<< endl;
   cout<<"My country is a very small country"
-  cout <<" Software Engineering"; 
+  cout <<" Software Engineering";
+  cout<<"2nd year student";
   return 0;
 }
