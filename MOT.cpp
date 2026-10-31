@@ -22,5 +22,12 @@ int a = 3, b = 4;
 int sum = a+b;
 cout << "sum = " << sum;
 return 0;
-}
 
+char var;
+    cout<<"sizeof(char) is "<<sizeof(var)<<" bytes "<<endl;
+    cout<<"sizeof(char) is "<<sizeof(char)<<" bytes "<<endl;
+    cout<<"sizeof(short) is "<<sizeof(short)<<" bytes "<<endl;
+    cout<<"sizeof(int) is "<<sizeof(int)<<" bytes "<<endl;
+    cout<<"sizeof(long) is "<<sizeof(long)<<" bytes "<<endl;
+return 0;
+}
