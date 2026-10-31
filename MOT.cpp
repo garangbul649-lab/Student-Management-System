@@ -16,6 +16,6 @@ int main ( )
 
   cout <<"The Sum is ="<<sum<< endl;
   cout<<"My country is a very small country"
-  cout<<"I like my country "  
+  
   return 0;
 }
